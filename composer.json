@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "open_cms": "vendor/open_cms",
+      "app\\": "app"
+    }
+  },
+  "require": {
+  }
+}
