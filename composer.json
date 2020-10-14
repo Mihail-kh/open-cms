@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "open_cms": "vendor/open_cms",
+      "open_cms\\": "vendor/open_cms/core/",
       "app\\": "app"
     }
   },

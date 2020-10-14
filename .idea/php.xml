@@ -4,6 +4,8 @@
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/open-cms/core" />
+      <path value="$PROJECT_DIR$/vendor/openCms/core" />
+      <path value="$PROJECT_DIR$/vendor/open_cms/core" />
     </include_path>
   </component>
 </project>

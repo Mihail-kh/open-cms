@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'open_cms' => array($vendorDir . '/open_cms'),
+    'open_cms\\' => array($vendorDir . '/open_cms/core'),
     'app\\' => array($baseDir . '/app'),
 );
